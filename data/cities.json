@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "0182",
+      "cityName": "Tokyo",
+      "country": "JP",
+      "emoji": "🇯🇵",
+      "date": "2024-12-18T05:15:24.003Z",
+      "notes": "",
+      "position": {
+        "lat": "35.639441068973944",
+        "lng": "139.77905273437503"
+      }
+    },
+    {
+      "id": "ec5f",
+      "cityName": "Furano",
+      "country": "JP",
+      "emoji": "🇯🇵",
+      "date": "2024-12-18T06:12:19.940Z",
+      "notes": "",
+      "position": {
+        "lat": "43.229195113965005",
+        "lng": "142.53662109375003"
+      }
+    },
+    {
+      "id": "1905",
+      "cityName": "Otofuke",
+      "country": "JP",
+      "emoji": "🇯🇵",
+      "date": "2024-12-18T06:15:31.223Z",
+      "notes": "Test",
+      "position": {
+        "lat": "42.982548873720326",
+        "lng": "143.19305419921878"
+      }
+    },
+    {
+      "id": "9766",
+      "cityName": "Okayama",
+      "country": "JP",
+      "emoji": "🇯🇵",
+      "date": "2024-12-18T06:16:21.198Z",
+      "notes": "",
+      "position": {
+        "lat": "34.642247047768535",
+        "lng": "133.87390136718753"
+      }
+    },
+    {
+      "id": "3cb0",
+      "cityName": "Minamiaso Mura",
+      "country": "JP",
+      "emoji": "🇯🇵",
+      "date": "2025-01-04T06:42:32.000Z",
+      "notes": "",
+      "position": {
+        "lat": "32.82421110161336",
+        "lng": "131.02294921875003"
+      }
+    },
+    {
+      "id": "80b4",
+      "cityName": "Seiyo",
+      "country": "JP",
+      "emoji": "🇯🇵",
+      "date": "2024-12-20T06:53:35.000Z",
+      "notes": "",
+      "position": {
+        "lat": "33.46810795527896",
+        "lng": "132.80273437500003"
+      }
+    },
+    {
+      "id": "6fe3",
+      "cityName": "Gujo",
+      "country": "JP",
+      "emoji": "🇯🇵",
+      "date": "2024-12-26T07:10:22.000Z",
+      "notes": "",
+      "position": {
+        "lat": "35.8356283888737",
+        "lng": "137.06542968750003"
+      }
+    }
+  ]
+}
